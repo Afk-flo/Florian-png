@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Florian-png
 - 👀 I’m interested in Web dev but also mobile programming and design !! 
-- 🌱 I’m currently learning PHP / SYMFONY / JS / JAVA / C# / SQL and to drink coffee :) 
+- 🌱 I’m currently learning PHP / SYMFONY / JS / JAVA / C# / SQL and how to drink coffee :) 
 - 💞️ I’m looking to collaborate on PHP / SYMFONY projet but i'm looking forward to learn a lot of things
 - 📫 You can reach me on Linkedin : Florian Chauvain
